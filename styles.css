@@ -25,3 +25,7 @@
     fill: #ec008c;
     opacity: 1;
 }
+
+.graph {
+  border: 10px solid black;
+}
